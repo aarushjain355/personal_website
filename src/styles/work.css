@@ -1,0 +1,28 @@
+/* work.css */
+.description-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+}
+
+.description-content.open {
+    max-height: 1000px;
+}
+
+.description-writing {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 0.5s forwards;
+}
+
+.text-darkBlue {
+    color: rgb(221, 221, 234);
+  }
+  
+
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
