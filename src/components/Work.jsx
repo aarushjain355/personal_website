@@ -59,7 +59,7 @@ const Work = () => {
                                     {item.name}
                                 </span>
                                 <div className="pt-8 text-center ">
-                                    <a href={item.github} target="_blank">
+                                    <a href={item.github} target="_blank" rel="noreferrer">
                                         <button
                                             className="text-center rounded-lg px-4 py-3 m-2
                                             bg-white text-gray-700 font-bold text-lg"
@@ -67,7 +67,7 @@ const Work = () => {
                                             Code
                                         </button>
                                     </a>
-                                    <a href={item.live} target="_blank">
+                                    <a href={item.live} target="_blank" rel="noreferrer">
                                         <button
                                             className="text-center rounded-lg px-4 py-3 m-2
                                             bg-white text-gray-700 font-bold text-lg"
