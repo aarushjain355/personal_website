@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/my_website/static/css/main.811f44dc.css",
+    "main.js": "/my_website/static/js/main.7ed96729.js",
+    "static/media/RC_CAR.jpg": "/my_website/static/media/RC_CAR.a85446f230c1b41ae78b.jpg",
+    "static/media/WeatherBot.jpg": "/my_website/static/media/WeatherBot.df07c232255261c2a6db.jpg",
+    "static/media/DeliveryBot.jpg": "/my_website/static/media/DeliveryBot.5d99f6c5b49e1caf0f1e.jpg",
+    "static/media/carla.png": "/my_website/static/media/carla.a68be063e0c0c052e35e.png",
+    "static/media/Blackjack.jpg": "/my_website/static/media/Blackjack.7fde6e8b7b60f8777932.jpg",
+    "static/media/Aarush.jpg": "/my_website/static/media/Aarush.dfed92e488632c833fad.jpg",
+    "static/media/Aarush.jpeg": "/my_website/static/media/Aarush.e5558f8e89ab69983467.jpeg",
+    "static/media/Arduino.png": "/my_website/static/media/Arduino.1662383316cf8a56212c.png",
+    "static/media/Ros_logo.png": "/my_website/static/media/Ros_logo.bc4ef765035b87602e85.png",
+    "static/media/Python.png": "/my_website/static/media/Python.925c8bf969f743c9453e.png",
+    "static/media/logo.png": "/my_website/static/media/logo.3acb8abddab30e25a1fa.png",
+    "static/media/desktop_app.png": "/my_website/static/media/desktop_app.32de0f565c3a0377c734.png",
+    "static/media/Trevor.png": "/my_website/static/media/Trevor.97d5f9a04ec42de2e3f7.png",
+    "static/media/javascript.png": "/my_website/static/media/javascript.ac9e504211b46cfb0118.png",
+    "static/media/OpenCV.png": "/my_website/static/media/OpenCV.0683202e7044e4dcf1df.png",
+    "static/media/Java_logo.png": "/my_website/static/media/Java_logo.c9effa0c2d68aeff38a8.png",
+    "static/media/React.png": "/my_website/static/media/React.cb383f7be127b0183272.png",
+    "static/media/C++.png": "/my_website/static/media/C++.e3cdff2d280795ea0f9a.png",
+    "static/media/hangman.png": "/my_website/static/media/hangman.5aae5defbd6d083748b7.png",
+    "static/media/NBA.png": "/my_website/static/media/NBA.0f6c21f56d169879bf96.png",
+    "static/media/Django.png": "/my_website/static/media/Django.2f6af9782aa7144e1ecf.png",
+    "index.html": "/my_website/index.html",
+    "main.811f44dc.css.map": "/my_website/static/css/main.811f44dc.css.map",
+    "main.7ed96729.js.map": "/my_website/static/js/main.7ed96729.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.811f44dc.css",
+    "static/js/main.7ed96729.js"
+  ]
+}
