@@ -1,10 +1,9 @@
 import React, { useState, useEffect } from "react";
-import { HiArrowNarrowRight } from 'react-icons/hi';
 import Photo from "../assets/Aarush.jpeg";
 
 const Home = () => {
   const [text, setText] = useState("");
-  const [fullText, setFullText] = useState(
+  const [fullText] = useState(
     "I'm a second year mechatronics engineering student at the University of Waterloo passionate about building software applications for robotics systems. Feel Free to check out some of my projects!"
   );
   const [index, setIndex] = useState(0);

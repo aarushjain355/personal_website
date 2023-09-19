@@ -4,7 +4,7 @@ import './About.css';
 
 const About = () => {
   const [text, setText] = useState("");
-  const [fullText, setFullText] = useState(
+  const [fullText] = useState(
     "A lot of my work is centered around combining concepts of hardware and software to create robust " +
     "and effective robotics applications that can showcase my skillset. From tinkering with an Arduino or an EV3 " +
     "robotics kit to running simulations on CARLA, I can display the impact my software has on a variety of platforms. " +
