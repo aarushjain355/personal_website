@@ -4,7 +4,7 @@ import Photo from "../assets/Aarush.jpeg";
 const Home = () => {
   const [text, setText] = useState("");
   const [fullText] = useState(
-    "I'm a second year mechatronics engineering student at the University of Waterloo passionate about building software applications for robotics systems. Feel Free to check out some of my projects!"
+    "I'm a third year mechatronics engineering student at the University of Waterloo passionate about robotics control theory and Machine Learning for robotics. Feel Free to check out some of my projects!"
   );
   const [index, setIndex] = useState(0);
 

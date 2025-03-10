@@ -39,7 +39,7 @@ const Navbar = () => {
         </li>
         <li>
           <Link to='work' smooth={true} duration={500}>
-            Work
+            Projects
           </Link>
         </li>
         
@@ -78,7 +78,7 @@ const Navbar = () => {
         <li className='py-6 text-4xl'>
           {' '}
           <Link onClick={handleClick} to='work' smooth={true} duration={500}>
-            Work
+            Projects
           </Link>
         </li>
         <li className='py-6 text-4xl'>
@@ -123,7 +123,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href="https://aarushjain.my.canva.site/aarush-jain"
+              href="https://drive.google.com/file/d/17mP9a2VYY9hnsJw5ya1mhJcfsZNcz18F/view?usp=sharing"
               target='_blank'
               rel='noopener noreferrer'
             >
