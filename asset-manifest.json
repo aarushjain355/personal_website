@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.811f44dc.css",
-    "main.js": "/personal_website/static/js/main.20093fd5.js",
+    "main.css": "/personal_website/static/css/main.77ed8424.css",
+    "main.js": "/personal_website/static/js/main.1cd2cbd8.js",
     "static/media/RC_CAR.jpg": "/personal_website/static/media/RC_CAR.a85446f230c1b41ae78b.jpg",
     "static/media/WeatherBot.jpg": "/personal_website/static/media/WeatherBot.df07c232255261c2a6db.jpg",
     "static/media/DeliveryBot.jpg": "/personal_website/static/media/DeliveryBot.5d99f6c5b49e1caf0f1e.jpg",
@@ -24,11 +24,11 @@
     "static/media/NBA.png": "/personal_website/static/media/NBA.0f6c21f56d169879bf96.png",
     "static/media/Django.png": "/personal_website/static/media/Django.2f6af9782aa7144e1ecf.png",
     "index.html": "/personal_website/index.html",
-    "main.811f44dc.css.map": "/personal_website/static/css/main.811f44dc.css.map",
-    "main.20093fd5.js.map": "/personal_website/static/js/main.20093fd5.js.map"
+    "main.77ed8424.css.map": "/personal_website/static/css/main.77ed8424.css.map",
+    "main.1cd2cbd8.js.map": "/personal_website/static/js/main.1cd2cbd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.811f44dc.css",
-    "static/js/main.20093fd5.js"
+    "static/css/main.77ed8424.css",
+    "static/js/main.1cd2cbd8.js"
   ]
 }
